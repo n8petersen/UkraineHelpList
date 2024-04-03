@@ -12,3 +12,12 @@
 main {
     overflow-x: hidden;
 }
+
+.main-class {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.header-class {
+    padding-bottom: 0px;
+}
