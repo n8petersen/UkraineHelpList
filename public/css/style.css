@@ -3,3 +3,14 @@
     max-width: 400px;
     height: auto;
 }
+
+.link {
+    /* width: 350px; */
+    /* height: 35px; */
+    /* position: relative; */
+    overflow-x: auto;
+}
+
+main {
+    overflow-x: hidden;
+}
