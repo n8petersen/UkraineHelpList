@@ -20,3 +20,11 @@ main {
 .header-class {
     padding-bottom: 0px;
 }
+
+ul>li>ul>li {
+    margin-left: 40px;
+}
+
+ul {
+    line-height:1.7;
+}
